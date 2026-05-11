@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bekheyali-station-road/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bekheyali Station Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bekheyali-station-road/) |
+| **Get License** | [Get a Licensing Quote for Bekheyali Station Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bekheyali-station-road/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 14a54c8f21952d1fe96abb919be3a49904db9095
+> বেখেয়ালী স্টেশন রোডে তুমি আজ এসো
+> নীরব এই রাতের বুকে একটু ভালোবেসো
+> হারিয়ে যাওয়ার এইতো সময় একটু কাছে টানো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
