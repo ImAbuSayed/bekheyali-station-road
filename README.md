@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bekheyali-station-road/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bekheyali Station Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bekheyali-station-road/) |
+| **Get License** | [Get License For Bekheyali Station Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bekheyali-station-road/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c6ab9ce5c1b4172af98648edf6ac36880901eb1b2c7327356a61102eb7e3b673` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

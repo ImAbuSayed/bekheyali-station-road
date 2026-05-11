@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bekheyali Station Road
+
+This log tracks the cryptographic history and versioning for the song **Bekheyali Station Road** (bekheyali-station-road).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T08:27:45.905996 | `v1` | `c6ab9ce5c1b4172af98648edf6ac36880901eb1b2c7327356a61102eb7e3b673` | `3d1a7c58ae777adcbadae0d2c2465b840989daf1c56e98c4673aa69fa3743014` | `2026-05-11_bekheyali-station-road-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
